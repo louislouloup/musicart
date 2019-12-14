@@ -4,6 +4,7 @@ title = "Louis BG"
 theme = "parsa"
 summaryLength = "10"
 paginate = 6
+publishDir = "docs"
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
